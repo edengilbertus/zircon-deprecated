@@ -7,8 +7,6 @@ necessary for the system to boot, talk to hardware, load userspace
 processes and run them, etc.  Fuchsia builds a much larger OS on top
 of this foundation.
 
-The canonical Zircon Git repository is located
-at: https://fuchsia.googlesource.com/zircon
 
 The Zircon Kernel provides syscalls to manage processes, threads,
 virtual memory, inter-process communication, waiting on object state
